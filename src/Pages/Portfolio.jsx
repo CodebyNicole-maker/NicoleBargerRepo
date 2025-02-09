@@ -3,7 +3,7 @@ import ColorPaletteGenartorimg from "../assets/ColorPaletteGenartorimg.png";
 import readmeimg from "../assets/readmeimg.jpg";
 import employeetrackingimg from "../assets/employeetrackingimg.jpg";
 import vehicleimg from "../assets/vehicleimg.jpg";
-import portfolioimg from "../assets/portfolioimg.jpeg";
+import Portfolioimg from "../assets/Portfolioimg.png";
 import weatherforecastimg from "../assets/weatherforecastimg.jpg";
 
 const projects = [
@@ -30,7 +30,7 @@ const projects = [
   {
     title: "Nicole-Barger-Repo",
     link: "https://github.com/Devilwife/NicoleBargerRepo",
-    image: portfolioimg,
+    image: Portfolioimg,
   },
   {
     title: "Atmosphere-Alchemy",
