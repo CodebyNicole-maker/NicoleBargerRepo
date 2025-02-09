@@ -1,7 +1,7 @@
 import React from "react";
-import Resume from "../assets/Resume.pdf";
+import ResumeDocument from "../assets/Resume.pdf";
 
-const Resume = () => {
+const ResumeDocument = () => {
   return (
     <div>
       <h1>Resume</h1>
@@ -10,7 +10,7 @@ const Resume = () => {
           Download my resume
           <a
             className="resumeLink"
-            href={Resume}
+            href={ResumeDocument}
             target="_blank"
             rel="noopener noreferrer"
             style={{ marginLeft: "6px" }}
