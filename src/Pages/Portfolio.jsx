@@ -1,5 +1,5 @@
 import Project from "../components/Project";
-import ColorPaletteGenartorimg from "../assets/ColorPaletteGenartor.jpg";
+import ColorPaletteGenartorimg from "../assets/ColorPaletteGenartorimg.jpg";
 import readmeimg from "../assets/readmeimg.jpg";
 import employeetrackingimg from "../asset/employeetrackingimg.jpg";
 import vehicleimg from "../assets/vehicleimg.jpg";
