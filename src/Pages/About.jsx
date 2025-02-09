@@ -1,5 +1,5 @@
 import React from "react";
-import Universalimg from "../assets/Universalimg.jpg";
+import SaintMarksBasilicaimg from "../assets/SaintMarksBasilicaimg.jpg";
 
 export default function About() {
   return (
@@ -7,9 +7,9 @@ export default function About() {
       <h1>About Me</h1>
       <div className="aboutContent">
         <img
-          className="Universalimg"
-          src={Universalimg}
-          alt="Me in front of the Universal Studios sign"
+          className="SaintMarksBasilicaimg"
+          src={SaintMarksBasilicaimg}
+          alt="Me and my mom in front of Saint Mark's Basilica in Venice Italy"
         />
         <p className="aboutMe">
           I’m a passionate coder who loves bringing ideas to life through creative and innovative web applications.
