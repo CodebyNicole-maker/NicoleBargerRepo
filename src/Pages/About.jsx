@@ -1,4 +1,4 @@
-import japanImg from "../assets/About.jpg";
+import MacysParadeImg from "../assets/MacysParade.jpg";
 
 export default function About() {
   return (
@@ -8,7 +8,7 @@ export default function About() {
       <div className="aboutContent">
         <img
           className="MacysParade"
-          src={AboutImg}
+          src={MacysParadeImg}
           alt="Me and my folks in front of the Macy's Thanksgiving Day Parade Sinclair Oil Float"
         />
 
