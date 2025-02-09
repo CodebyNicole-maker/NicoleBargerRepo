@@ -1,5 +1,5 @@
 import React from "react";
-import MacysParadeImg from "../assets/MacysParadeimg.jpg";
+import Universalimg from "../assets/Universalimg.jpg";
 
 export default function About() {
   return (
@@ -7,9 +7,9 @@ export default function About() {
       <h1>About Me</h1>
       <div className="aboutContent">
         <img
-          className="MacysParadeimg"
-          src={MacysParadeImg}
-          alt="Me and my folks in front of the Macy's Thanksgiving Day Parade Sinclair Oil Float"
+          className="Universalimg"
+          src={Universalimg}
+          alt="Me in front of the Universal Studios sign"
         />
         <p className="aboutMe">
           I’m a passionate coder who loves bringing ideas to life through creative and innovative web applications.
