@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../assets/resume.pdf";
+import Resume from "../assets/Resume.pdf";
 
 const Resume = () => {
   return (
@@ -10,7 +10,7 @@ const Resume = () => {
           Download my resume
           <a
             className="resumeLink"
-            href={resume}
+            href={Resume}
             target="_blank"
             rel="noopener noreferrer"
             style={{ marginLeft: "6px" }}
