@@ -1,11 +1,11 @@
-// import React from "react";
+import React from "react";
 
-// const Project = ({ title }) => {
-//   return (
-//     <div className="card text-primary">
-//       {title}
-//     </div>
-//   );
-// };
+const Project = ({ title }) => {
+  return (
+    <div className="card text-primary">
+      {title}
+    </div>
+  );
+};
 
-// export default Project;
+export default Project;
