@@ -50,11 +50,9 @@ https://nicolebargerportfolio.netlify.app/
 
 Feel free to reach out:
 
-Email: your.email@example.com
+Email: nicole.barger22#@gmail.com
 
-GitHub: Your GitHub Profile
-
-Portfolio: Your Live Website
+GitHub: https://github.com/CodebyNicole-maker
 
 Enjoy exploring my portfolio! 🚀
 
