@@ -44,7 +44,7 @@ npm run dev
 
 Open your browser and go to:
 
-http://localhost:5178/
+https://nicolebargerportfolio.netlify.app/
 
 📬 Contact
 
