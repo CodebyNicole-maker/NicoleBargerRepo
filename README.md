@@ -28,7 +28,7 @@ Other Tools: Git, GitHub, VS Code
 
 Clone the repository:
 
-git clone https://github.com/Devilwife/NicoleBargerRepo
+git clone https://github.com/CodebyNicole-maker
 
 Navigate to the project folder:
 

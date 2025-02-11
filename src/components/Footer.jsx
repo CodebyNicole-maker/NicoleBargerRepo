@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <a
-        href="https://github.com/Devilwife"
+        href="https://github.com/CodebyNicole-maker"
         target="_blank"
         rel="noopener noreferrer"
       >

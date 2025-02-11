@@ -9,32 +9,32 @@ import weatherforecastimg from "../assets/weatherforecastimg.jpg";
 const projects = [
   {
     title: "Color Palette Generator",
-    link: "https://github.com/Devilwife/Color-Code-Palette",
+    link: "https://github.com/CodebyNicole-maker/Color-Code-Palette",
     image: ColorPaletteGenartorimg,
   },
   {
     title: "Fragile.Desktop",
-    link: "https://github.com/Devilwife/fragile.desktop",
+    link: "https://github.com/CodebyNicole-maker/fragile.desktop",
     image: readmeimg,
   },
   {
     title: "Workforce-Watcher",
-    link: "https://github.com/Devilwife/Workforce-Watcher",
+    link: "https://github.com/CodebyNicole-maker/Workforce-Watcher",
     image: employeetrackingimg,
   },
   {
     title: "Reasearch-Rover",
-    link: "https://github.com/Devilwife/Research-Rover",
+    link: "https://github.com/CodebyNicole-maker/Research-Rover",
     image: vehicleimg,
   },
   {
     title: "Nicole-Barger-Repo",
-    link: "https://github.com/Devilwife/NicoleBargerRepo",
+    link: "https://github.com/CodebyNicole-maker/NicoleBargerRepo",
     image: Portfolioimg,
   },
   {
     title: "Atmosphere-Alchemy",
-    link: "https://github.com/Devilwife/AtmosphereAlchemy",
+    link: "https://github.com/CodebyNicole-maker/AtmosphereAlchemy",
     image: weatherforecastimg,
   },
 ];
